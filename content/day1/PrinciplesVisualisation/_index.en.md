@@ -1,7 +1,7 @@
 ---
 date: "2016-04-09T16:50:16+02:00"
-title: Introduction to Visualisation Principles
-menuTitle: "Principles of Visualisation"
+title: Uvod u principe vizuelizacije
+menuTitle: "Principi vizualizacije"
 weight: 9
 ---
 
